@@ -77,7 +77,7 @@ class robot:
             One item in the returned list should be in the form: [landmark_index, dx, dy].
             '''
            
-        measurements = None
+        measurements = []
         
         ## TODO: iterate through all of the landmarks in a world
         
